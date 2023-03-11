@@ -1,0 +1,2 @@
+# openclash-public
+config openclash
